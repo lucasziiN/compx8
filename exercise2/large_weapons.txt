@@ -1,0 +1,216 @@
+Blackfang Bludgeon
+Great Hammer
+489
+1.44
+Boneshredder
+Great Axe
+256
+0.84
+Comet's Tail
+Great Sword
+872
+1.2
+Decapitator
+Great Sword
+188
+1.08
+Demolisher
+Great Hammer
+887
+1.32
+Dragondoom
+Great Axe
+762
+0.96
+Dragonfang Skewer
+Great Sword
+754
+1.08
+Dwarfbreaker
+Great Hammer
+119
+1.56
+Equalizer
+Great Sword
+200
+1.2
+Fused Iron Wrench
+Great Hammer
+436
+1.56
+Gatecrasher
+Great Hammer
+824
+1.32
+Gearbladed Grindsaw
+Great Sword
+629
+0.96
+Goblinskewer
+Great Sword
+215
+0.84
+Heartbreaker
+Great Hammer
+181
+1.32
+Mace of the Twin Gods
+Great Hammer
+507
+1.68
+Mansmasher
+Great Hammer
+297
+1.32
+Manswatter
+Great Hammer
+384
+1.32
+Misery
+Great Hammer
+251
+1.44
+Netherbane
+Great Sword
+419
+1.08
+Ogre Dagger
+Great Sword
+669
+1.2
+Ogre's Fist
+Great Hammer
+706
+1.32
+Scrapper
+Great Sword
+360
+0.96
+Severance
+Great Sword
+250
+1.08
+Shieldcrusher
+Great Hammer
+153
+1.32
+Siegebreaker
+Great Hammer
+963
+1.44
+Spikedriver
+Great Hammer
+627
+1.44
+Spinecracker
+Great Hammer
+662
+1.32
+The Administrator
+Great Hammer
+779
+1.44
+The Axe of the Orge King
+Great Axe
+587
+1.2
+The Cavitator
+Great Hammer
+80
+1.44
+The Extension Sword
+Great Sword
+323
+1.2
+The Grammar Hammer
+Great Hammer
+472
+1.44
+The Gray
+Great Sword
+494
+1.08
+The Gristmill
+Great Hammer
+114
+1.08
+The Honorguard's Touch
+Great Axe
+299
+1.08
+The Mechano-Axe
+Great Axe
+1262
+0.84
+The Monster Mash
+Great Hammer
+485
+1.44
+The Paladin's Fist
+Great Hammer
+353
+1.44
+The Savage Sword
+Great Sword
+382
+1.08
+The Stamp of Disapproval
+Great Hammer
+516
+1.32
+The Starlight Blade
+Great Sword
+874
+0.84
+The Troll's Knuckle
+Great Hammer
+849
+1.56
+Threaded Bolt Driver
+Great Hammer
+516
+1.32
+Three-Hand Sword
+Great Sword
+82
+0.96
+Tormentor
+Great Hammer
+270
+1.56
+Trollcleaver
+Great Axe
+199
+0.96
+Trollcutter
+Great Axe
+89
+1.08
+Trollsapper
+Great Axe
+129
+1.32
+Valgang Toothpick
+Great Sword
+735
+0.84
+Wraith Lord's Axe
+Great Axe
+346
+1.44
+Wraith Lord's Axe
+Great Axe
+802
+1.44
+Wraith Lord's Hammer
+Great Hammer
+347
+1.44
+Wraith Lord's Mace
+Great Hammer
+321
+0.96
+Wraith Lord's Mace
+Great Hammer
+743
+0.96

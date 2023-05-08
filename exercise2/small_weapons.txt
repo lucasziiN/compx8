@@ -1,0 +1,52 @@
+Blackfang Bludgeon
+Great Hammer
+489
+1.44
+Boneshredder
+Great Axe
+256
+0.84
+Comet's Tail
+Great Sword
+872
+1.2
+Decapitator
+Great Sword
+188
+1.08
+Demolisher
+Great Hammer
+887
+1.32
+Dragondoom
+Great Axe
+762
+0.96
+Dragonfang Skewer
+Great Sword
+754
+1.08
+Dwarfbreaker
+Great Hammer
+119
+1.56
+Equalizer
+Great Sword
+200
+1.2
+Fused Iron Wrench
+Great Hammer
+436
+1.56
+Gatecrasher
+Great Hammer
+824
+1.32
+Gearbladed Grindsaw
+Great Sword
+629
+0.96
+Goblinskewer
+Great Sword
+215
+0.84
